@@ -1,4 +1,4 @@
-# Stereo Matching Project - Final Submission
+# Stereo Matching Project
 # Author: John Wisniewski
 # Date: 4/26/2025
 
